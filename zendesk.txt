@@ -1,0 +1,6 @@
+/api/v2/tickets.json
+/hc/en-us/requests
+/hc/en-us/requests/new
+/hc/en-us/requests/ccd
+/hc/contributions/comments?locale=fr
+/hc/fr/subscriptions

@@ -1,0 +1,17 @@
+call
+callback
+cb
+jcb
+jsonp
+jsonpcallback
+jsonPCallback0
+jsonPCallback1
+jsonPCallback2
+jsonPCallback3
+jsonPCallback4
+jsonPCallback5
+jsonPCallback6
+jsonPCallback7
+jsonPCallback8
+jsonPCallback9
+magjsoncallbac
